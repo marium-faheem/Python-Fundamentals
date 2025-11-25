@@ -1,0 +1,12 @@
+fruits=["mango","peach","guava"]
+print(fruits)
+fruits.append("orange")
+print(fruits)
+fruits.reverse()
+print(fruits)
+fruits.sort()
+print(fruits)
+fruits.remove("peach")
+print(fruits)
+print(fruits[1])
+print(len(fruits))
